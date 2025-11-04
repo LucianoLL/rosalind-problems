@@ -6,3 +6,7 @@ This repo is meant to store Jupyter notebooks of the Rosalind problems. All info
 [2] https://www.geeksforgeeks.org/python/python-modify-strings/
 
 [3] https://meta.stackexchange.com/questions/226869/how-can-i-add-the-mathematical-symbol-for-power-like-x-2-to-a-question
+
+[4] https://www.markdownguide.org/extended-syntax/
+
+[5] https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
